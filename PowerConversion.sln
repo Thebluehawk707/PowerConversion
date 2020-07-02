@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerConversion", "PowerCon
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerFunctions", "PowerFunctions\PowerFunctions.vcxproj", "{B5F8EACA-3967-470B-A7B1-4B8632457940}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PowerConversionInstall", "PowerConversionInstall\PowerConversionInstall.vdproj", "{C98485FA-B4B7-42C0-95B5-F69F573B08A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,13 @@ Global
 		{B5F8EACA-3967-470B-A7B1-4B8632457940}.Release|x64.Build.0 = Release|x64
 		{B5F8EACA-3967-470B-A7B1-4B8632457940}.Release|x86.ActiveCfg = Release|Win32
 		{B5F8EACA-3967-470B-A7B1-4B8632457940}.Release|x86.Build.0 = Release|Win32
+		{C98485FA-B4B7-42C0-95B5-F69F573B08A0}.Debug|Any CPU.ActiveCfg = Debug
+		{C98485FA-B4B7-42C0-95B5-F69F573B08A0}.Debug|Any CPU.Build.0 = Debug
+		{C98485FA-B4B7-42C0-95B5-F69F573B08A0}.Debug|x64.ActiveCfg = Debug
+		{C98485FA-B4B7-42C0-95B5-F69F573B08A0}.Debug|x86.ActiveCfg = Debug
+		{C98485FA-B4B7-42C0-95B5-F69F573B08A0}.Release|Any CPU.ActiveCfg = Release
+		{C98485FA-B4B7-42C0-95B5-F69F573B08A0}.Release|x64.ActiveCfg = Release
+		{C98485FA-B4B7-42C0-95B5-F69F573B08A0}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
