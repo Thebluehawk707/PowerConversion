@@ -33,6 +33,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_CB3F37E95FF748349E6B7D5D2D97BDD5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_1C2D092AA4583DBAF5C8FB8A69DCFC72"
         "MsmSig" = "8:_UNDEFINED"
@@ -157,6 +163,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CB3F37E95FF748349E6B7D5D2D97BDD5"
+            {
+            "SourcePath" = "8:..\\PowerConversion\\bluehawk.ico"
+            "TargetName" = "8:bluehawk.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_C5443F14246847A2BBE8CC155FEAB21D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
         }
         "FileType"
         {
@@ -225,7 +251,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:PowerConversion"
         "ProductCode" = "8:{DAC838B9-6DFC-4A9A-959F-A4137C9658FB}"
-        "PackageCode" = "8:{D5E61AA3-5AF1-4AD4-A192-83890B5B49D8}"
+        "PackageCode" = "8:{FC500B3E-3679-4B22-B547-21A3F1FD78A3}"
         "UpgradeCode" = "8:{155B6AD4-A23B-4C33-9EFB-325354DAE4E6}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -356,7 +382,7 @@
             "Target" = "8:_A39081B6BCF242139DD8A178F67E97FE"
             "Folder" = "8:_7C22393A5E1744DC9DDF20682CCAE73F"
             "WorkingFolder" = "8:_C5443F14246847A2BBE8CC155FEAB21D"
-            "Icon" = "8:"
+            "Icon" = "8:_CB3F37E95FF748349E6B7D5D2D97BDD5"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_B25134982889450AB92F8765B5B2BFB2"
@@ -370,7 +396,7 @@
             "Target" = "8:_A39081B6BCF242139DD8A178F67E97FE"
             "Folder" = "8:_4ABD9E579B64418FACAB577418BC284F"
             "WorkingFolder" = "8:_C5443F14246847A2BBE8CC155FEAB21D"
-            "Icon" = "8:"
+            "Icon" = "8:_CB3F37E95FF748349E6B7D5D2D97BDD5"
             "Feature" = "8:"
             }
         }

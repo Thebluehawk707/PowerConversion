@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btn_mW2dBm = new System.Windows.Forms.Button();
             this.btn_dBm2mW = new System.Windows.Forms.Button();
             this.lbl_mW2dBm = new System.Windows.Forms.Label();
@@ -143,6 +144,7 @@
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(832, 448);
             this.Controls.Add(this.BoxOfConversions);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimumSize = new System.Drawing.Size(385, 230);
             this.Name = "Form1";
             this.Text = "Power Conversion";

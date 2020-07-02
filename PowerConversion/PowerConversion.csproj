@@ -66,6 +66,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Content Include="bluehawk.ico" />
     <Content Include="Documentation.docx">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
