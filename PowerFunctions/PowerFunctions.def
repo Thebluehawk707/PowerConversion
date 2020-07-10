@@ -1,3 +1,4 @@
 LIBRARY
-mW2dBm
-dBm2mW
+EXPORTS
+	mW2dBm
+	dBm2mW
